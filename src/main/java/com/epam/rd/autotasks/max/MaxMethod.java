@@ -1,6 +1,4 @@
 package com.epam.rd.autotasks.max;
-
-
 import java.util.OptionalInt;
 
 public class MaxMethod {
